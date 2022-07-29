@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana;
+    background-color: antiquewhite;
+}
+
+#site-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 550px;
+    border-radius: 8px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    color: black;
+}
